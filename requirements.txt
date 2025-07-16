@@ -1,0 +1,7 @@
+chainlit
+dotenv
+fastapi
+openai-agents
+requests
+twilio
+uvicorn
